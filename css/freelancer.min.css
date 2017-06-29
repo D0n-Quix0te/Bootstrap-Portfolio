@@ -91,6 +91,10 @@ header .intro-text .skills {
     border: none
 }
 
+.navbar-custom .navbar-brand {
+    color: white;
+}
+
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-brand.active,
 .navbar-custom .navbar-brand:active,
